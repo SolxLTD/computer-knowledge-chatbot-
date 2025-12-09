@@ -1,0 +1,10 @@
+Computers are electronic machines that process data using hardware and software components. 
+The CPU is considered the brain of the computer and it executes instructions. 
+RAM is temporary memory used to store data while programs are running. 
+Storage devices like SSDs and HDDs permanently store data. 
+Operating systems manage hardware, software, and system resources. 
+Computer networks allow devices to communicate and share information. 
+The internet is a global network connecting millions of devices. 
+Cybersecurity protects systems and data from unauthorized access. 
+Artificial intelligence allows computers to learn and make decisions. 
+Programming languages like Python help developers create applications.
