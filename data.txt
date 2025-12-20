@@ -1,0 +1,119 @@
+
+# ---------------- COMPUTER BASICS ----------------
+computer_definition|a computer is an electronic device that accepts input processes data and produces output.
+computer_definition|a computer follows instructions called programs to perform tasks.
+computer_definition|a computer requires both hardware and software to function.
+computer_definition|a computer processes data using arithmetic and logical operations.
+computer_use|computers are used for education communication business entertainment and research.
+computer_components|a computer system consists of hardware and software.
+
+# ---------------- HARDWARE ----------------
+hardware_definition|hardware refers to the physical parts of a computer.
+hardware_examples|hardware includes cpu motherboard memory storage input devices and output devices.
+hardware_internal|internal hardware components are located inside the system unit.
+hardware_external|external hardware devices are connected outside the computer.
+
+# ---------------- CPU ----------------
+cpu_definition|the cpu is the brain of the computer.
+cpu_function|the cpu executes program instructions.
+cpu_function|the cpu performs arithmetic and logical operations.
+cpu_function|the cpu controls all activities in the computer system.
+cpu_components|the cpu consists of the control unit alu and registers.
+control_unit_function|the control unit controls all operations in the cpu.
+alu_function|the alu performs arithmetic and logical calculations.
+register_function|registers temporarily store data inside the cpu.
+
+# ---------------- MEMORY ----------------
+memory_definition|memory stores data instructions and information.
+memory_types|memory is divided into primary memory and secondary memory.
+memory_ram|ram is a volatile memory used for temporary storage.
+memory_ram|ram stores data and programs currently in use.
+memory_ram|ram is cleared when the computer is turned off.
+memory_rom|rom is a non volatile memory.
+memory_rom|rom stores permanent startup instructions.
+cache_memory|cache memory stores frequently used data for faster access.
+
+# ---------------- STORAGE ----------------
+storage_definition|storage devices store data permanently.
+storage_hdd|a hard disk drive uses magnetic storage.
+storage_ssd|a solid state drive uses flash memory.
+storage_ssd|solid state drives are faster than hard disk drives.
+storage_capacity|storage capacity determines how much data can be stored.
+
+# ---------------- INPUT DEVICES ----------------
+input_definition|input devices allow users to enter data into a computer.
+input_keyboard|a keyboard is an input device used for typing.
+input_mouse|a mouse is an input device used to control the pointer.
+input_scanner|a scanner converts physical documents into digital form.
+input_microphone|a microphone is used to input sound.
+input_camera|a camera is used to capture pictures and videos.
+
+# ---------------- OUTPUT DEVICES ----------------
+output_definition|output devices display processed information.
+hardware_monitor|a monitor is an output device that displays information from a computer.
+hardware_printer|a printer is an output device that produces a hard copy of documents.
+hardware_speaker|speakers are output devices that produce sound.
+output_examples|examples of output devices include monitor printer and speakers.
+
+# ---------------- MOTHERBOARD ----------------
+motherboard_definition|the motherboard connects all parts of the computer together.
+motherboard_function|the motherboard allows communication between computer components.
+
+# ---------------- POWER SUPPLY ----------------
+power_supply_definition|the power supply unit provides power to the computer.
+power_supply_function|the power supply converts ac power to dc power.
+
+# ---------------- OPERATING SYSTEM ----------------
+os_definition|an operating system manages computer hardware and software resources.
+os_function|the operating system handles file management.
+os_function|the operating system manages memory and running programs.
+os_function|the operating system provides a user interface.
+os_examples|windows linux and macos are common operating systems.
+
+# ---------------- SOFTWARE ----------------
+software_definition|software is a set of instructions that tells a computer what to do.
+software_types|software is divided into system software and application software.
+system_software_definition|system software controls and manages computer hardware.
+application_software_definition|application software helps users perform specific tasks.
+application_examples|examples of application software include word processors browsers and media players.
+
+# ---------------- BOOTING ----------------
+booting_definition|booting is the process of starting a computer.
+bios_function|the bios initializes hardware during booting.
+
+# ---------------- NETWORKING ----------------
+network_definition|networking allows computers to communicate and share data.
+network_types|networks can be wired or wireless.
+lan_definition|a lan is a network in a small area such as a building or school.
+wan_definition|a wan is a network over a large area such as a country.
+internet_definition|the internet connects computers all over the world.
+browser_definition|a web browser is a software used to access websites.
+
+# ---------------- SECURITY ----------------
+security_definition|computer security protects computers data and users.
+firewall_definition|a firewall monitors and controls network traffic.
+malware_definition|malware is malicious software designed to harm a computer.
+virus_definition|a virus attaches itself to files and spreads.
+worm_definition|a worm spreads through networks without user action.
+trojan_definition|a trojan pretends to be a useful program but causes harm.
+antivirus_definition|antivirus software protects a computer from malware.
+backup_definition|backup means copying data to prevent data loss.
+
+# ---------------- CLOUD ----------------
+cloud_definition|cloud computing provides online storage and services.
+cloud_use|cloud computing allows data to be stored and accessed over the internet.
+
+# ---------------- CLASSIFICATION ----------------
+classification_definition|computers can be classified by size purpose and function.
+supercomputer_definition|supercomputers are very powerful computers used for scientific work.
+mainframe_definition|mainframe computers are used by large organizations to process huge data.
+personal_computer_definition|personal computers are made for individual use.
+laptop_definition|a laptop is a portable personal computer.
+
+# ---------------- DATA & INFORMATION ----------------
+data_definition|data is raw facts and figures.
+information_definition|information is processed meaningful data.
+
+# ---------------- PROGRAMMING ----------------
+program_definition|a program is a set of instructions written to perform a task.
+programming_language_definition|programming languages are used to write computer programs.
